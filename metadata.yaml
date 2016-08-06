@@ -1,0 +1,31 @@
+_repo: De-omwenteling-van-1830_11287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conscience, Hendrik
+    aliases:
+    - Conscience, Henryk
+    - Conscience, Henri
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '3882'
+    url: http://www.gutenberg.org/2009/agents/3882
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Hendrik_Conscience
+    - http://en.wikipedia.org/wiki/Hendrik_Conscience
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11287'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcc 'PT'
+- !lcsh 'Belgium -- History -- Revolution, 1830-1839'
+- GITenberg
+title: De omwenteling van 1830
+url: http://www.gutenberg.org/ebooks/11287
